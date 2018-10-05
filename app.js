@@ -50,7 +50,6 @@ app.use(session({
 app.use(passport.initialize());
 app.use(passport.session());
 
-
 // Express Validator
 app.use(expressValidator({
   errorFormatter: function(param, msg, value) {

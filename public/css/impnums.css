@@ -1,0 +1,28 @@
+body{
+    background-image: url("background-image.jpg");
+    background-size: 100%;
+}
+#impnums{
+    font-size: 60px;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    text-shadow: 10px 10px 10px black;
+}
+#line{
+    font-size: 25px;
+    color: rgb(206, 206, 206);
+    text-align: center;
+    margin-bottom: 10px;
+}
+table{
+    font-size: 18px;
+    color: white;
+    padding: 5px;
+    margin: 50px;
+    margin-top: 50px;
+    box-shadow: 5 px 5px rgb(37, 34, 34);
+}
+th,td{
+    margin: 10px;
+}
